@@ -2,17 +2,31 @@ body {
 	font-family: "Coda", sans-serif;
 	background-color:#000000;
 	color:#ccffcc;
+	padding:30px;
 }
 main {
-	padding: 60px;
 }
 .container {
   padding: 60px;
 }
-h1, h3 {
+h1 {
 	text-align:center;
 	font-variant:small-caps;
 }
+img {
+	padding-left:30px;
+	padding-right:60px;
+}
 address {
 	text-align: center;
+	padding-bottom:30px;
+}
+h3 {
+	margin-bottom:0px;
+}
+hr {
+	margin-top:0px;
+}
+sidebar {
+	float:left;
 }
