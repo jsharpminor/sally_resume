@@ -1,0 +1,19 @@
+main {
+	padding: 60px;
+}
+.container {
+  padding: 60px;
+}
+body.headers {
+  padding: 60px;
+  background-color: aquamarine;
+}
+body.borg {
+	font-family: "Coda", sans-serif;
+	background-color:#000000;
+	color:#ccffcc;
+}
+body.borg h1 {
+	text-align:center;
+	font-variant:small-caps;
+}
