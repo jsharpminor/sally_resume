@@ -9,7 +9,7 @@ main {
 .container {
   padding: 60px;
 }
-h1 h3 {
+h1, h3 {
 	text-align:center;
 	font-variant:small-caps;
 }
